@@ -1,0 +1,37 @@
+```css
+body {
+    background-color: lightyellow;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 100px;
+}
+
+h1 {
+    color: orange;
+    font-size: 50px;
+}
+
+h2 {
+    color: darkred;
+}
+
+p {
+    color: brown;
+    font-size: 20px;
+}
+
+button {
+    background-color: orange;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkorange;
+}
+```
+
